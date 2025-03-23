@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mitsu 108 on Home</title><link>https://blitzanalysiz.com/update/11.1/5/tanks/5473/</link><description>Recent content in Mitsu 108 on Home</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blitzanalysiz.com/update/11.1/5/tanks/5473/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mitsu 108 - Home</title>
+    <link>http://localhost:1313/update/11.1/5/tanks/5473/</link>
+    <description>Mitsu 108 tank stats. A tier V Heavy Tank in World of Tanks Blitz. Update 11.1</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/update/11.1/5/tanks/5473/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
