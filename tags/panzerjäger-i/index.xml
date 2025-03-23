@@ -1,3 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Panzerjäger I on Home</title><link>https://blitzanalysiz.com/tags/panzerj%C3%A4ger-i/</link><description>Recent content in Panzerjäger I on Home</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blitzanalysiz.com/tags/panzerj%C3%A4ger-i/index.xml" rel="self" type="application/rss+xml"/><item><title>Panzerjäger I</title><link>https://blitzanalysiz.com/update/11.1/2/tanks/3601/</link><pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate><guid>https://blitzanalysiz.com/update/11.1/2/tanks/3601/</guid><description>Panzerjäger I is a German Tier II premium Tank Destroyer.
-Player Population This graphs compare&amp;rsquo;s the tank&amp;rsquo;s player population by WR at Tier to other same tier Tank Destroyers.
-Relative WR vs.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Panzerjäger I - Tag - Home</title>
+    <link>http://localhost:1313/tags/panzerj%C3%A4ger-i/</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/panzerj%C3%A4ger-i/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Panzerjäger I</title>
+      <link>http://localhost:1313/update/11.1/2/tanks/3601/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/update/11.1/2/tanks/3601/</guid>
+      <description>Panzerjäger I tank stats. A tier II Tank Destroyer in World of Tanks Blitz. Update 11.1</description>
+    </item>
+  </channel>
+</rss>
